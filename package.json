@@ -23,7 +23,7 @@
         "step": "~0.0.5",
         "generic-pool": "~2.4.1",
         "request": "2.x",
-        "srs": "git://github.com/florianf/node-srs.git",
+        "srs": "git+https://github.com/florianf/node-srs.git",
         "zip-local": "~0.3.4",
         "sqlite3": "2.x || 3.x",
         "mime": "~1.2.11",
